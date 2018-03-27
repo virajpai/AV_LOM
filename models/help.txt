@@ -1,0 +1,1 @@
+This folder is used for saving reusable modles. All the models should be saved here in pickle format with .pkl extension.

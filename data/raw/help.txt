@@ -1,0 +1,1 @@
+This folder is used for holding the raw data. Raw data once downloaded, should be read-only. Modifications to the data, should be saved to processed data.
